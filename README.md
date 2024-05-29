@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=nodejs,jest,nest,express,ts,py,fastapi,sklearn,redis" />
   </p>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,docker,anaconda,kafka,rabbitmq,,mongodb,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=git,docker,anaconda,kafka,rabbitmq,mongodb,postgres,sqlite" />
   </p>
 </div>
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/locemarn/locemarn/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
