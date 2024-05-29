@@ -72,7 +72,15 @@
 
 <br/>
 
-<div width="100%" display="flex" justify-content="center" >
+<div width="100%" justify="space-between" align="center" >
+  <img align="left" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+
+  <a href='https://github.com/locemarn/locemarn/issues' target='_blank' align="center">
+    <img align="center" height='32' style='border:0px;height:32px;' src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg' border='0' alt='Ask me anything' />
+  </a>
+
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=locemarn" />
+
   <div align="left">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </div>
