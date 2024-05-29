@@ -72,7 +72,7 @@
 
 <br/>
 
-<div class="flex">
+<div style="width:100%; display: flex; justify-content: space-between; align-items: center;" >
   <div>
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </div>
@@ -87,12 +87,3 @@
 </div>
 
 <br/>
-
-<style>
-  .flex {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-</style>
