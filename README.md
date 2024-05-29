@@ -76,7 +76,7 @@
   <img align="left" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
 
   <a href='https://github.com/locemarn/locemarn/issues' target='_blank' align="center" >
-    <img height='32' style='border:0px;height:32px;' src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg' border='0' alt='Ask me anything' />
+    <img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg' border='0' alt='Ask me anything' />
   </a>
 
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=locemarn" />
