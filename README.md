@@ -72,11 +72,11 @@
 
 <br/>
 
-<div width="100%" style="width:100%; display: flex; justify-content: space-between; align-items: center;" >
+<div width="100%" display="flex" justify-content="center" >
   <div align="left">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </div>
-  <div alight="center">
+  <div align="center">
     <a href='https://github.com/locemarn/locemarn/issues' target='_blank' >
       <img align="center" height='32' style='border:0px;height:32px;' src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg' border='0' alt='Ask me anything' />
     </a>
