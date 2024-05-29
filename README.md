@@ -72,17 +72,17 @@
 
 <br/>
 
-<div style="width:100%; display: flex; justify-content: space-between; align-items: center;" >
+<div width="100%" style="width:100%; display: flex; justify-content: space-between; align-items: center;" >
   <div align="left">
-    <img align="left" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </div>
-  <div>
-    <a href='https://github.com/locemarn/locemarn/issues' target='_blank' alight="center">
+  <div alight="center">
+    <a href='https://github.com/locemarn/locemarn/issues' target='_blank' >
       <img align="center" height='32' style='border:0px;height:32px;' src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg' border='0' alt='Ask me anything' />
     </a>
   </div>
   <div align="right">
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=locemarn" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=locemarn" />
   </div>
 </div>
 
