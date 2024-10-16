@@ -8,7 +8,7 @@
 
 <div align="center">
  
-  🔭 I'm currently looking for a new job opportunity
+  🔭 I am looking for a new position.
  
   🌱 I’m currently learning **Docker, python, AWS**
 
