@@ -10,7 +10,7 @@
  
   🔭 I am looking for a new position.
  
-  🌱 I’m currently learning **Docker, python, AWS**
+  🌱 I’m learning about **Docker, python and AWS**
 
 😄 Pronouns: **He/His**
 
