@@ -73,13 +73,13 @@
 <br/>
 
 <div width="100%" justify="flex-end" align="center" >
-  <img align="left" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img align="left" src="https://img.shields.io/badge/Maintained%3F-yes-1abc9c.svg" />
 
   <a href='https://github.com/locemarn/locemarn/issues' target='_blank' align="center" >
     <img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg' border='0' alt='Ask me anything' />
   </a>
 
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=locemarn" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=locemarn&label=Hello+Visitors&color=1abc9c" />
 
 </div>
 
