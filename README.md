@@ -18,20 +18,16 @@
  
 <div style="width: 100%; display: flex; justify-content:center"> 
   <a href="mailto:marcelon27@gmail.com" style="padding: 0 10px">
-    <img src="https://img.shields.io/badge/Email-4a646c?style=for-the-badge&logo=gmail&style=flat&logoColor=red
-    " target="_blank" />
+    <img src="https://img.shields.io/badge/Email-4a646c?style=for-the-badge&logo=gmail&style=flat&logoColor=red" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/marcelo-nogueira-silva/" target="_blank"  style="padding: 0 10px">
-    <img src="https://img.shields.io/badge/LinkedIn-4a646c?style=for-the-badge&logo=linkedin&style=flat&logoColor=blue
-    " target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-4a646c?style=for-the-badge&logo=linkedin&style=flat&logoColor=blue" target="_blank" />
   </a>
   <a href="./files/marcelo_nogueira_en.pdf" download  style="padding: 0 10px">
-    <img src="https://img.shields.io/badge/Resume-4a646c?style=for-the-badge&logo=googledocs&style=flat&logoColor=e0ffff
-    " target="_blank" />
+    <img src="https://img.shields.io/badge/Resume-4a646c?style=for-the-badge&logo=googledocs&style=flat&logoColor=e0ffff" target="_blank" />
   </a>
   <a href="./files/marcelo_nogueira_pt.pdf" download  style="padding: 0 10px">
-    <img src="https://img.shields.io/badge/Currículo-4a646c?style=for-the-badge&logo=googledocs&style=flat&logoColor=e0ffff
-    " target="_blank" />
+    <img src="https://img.shields.io/badge/Currículo-4a646c?style=for-the-badge&logo=googledocs&style=flat&logoColor=e0ffff" target="_blank" />
   </a>
 </div>
 
