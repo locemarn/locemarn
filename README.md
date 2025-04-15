@@ -1,7 +1,11 @@
 ### Hey there! 👋 I'm Marcelo Nogueira
 
+
+
 I'm a passionate software developer who loves building things that matter — one line of code at a time.  
 Currently working on cool projects with Node.js, TypeScript, GraphQL and Prisma, while always learning and experimenting with new tech.
+
+<img align="right" width="250px" src="./images/me.png" alt="Marcelo Nogueira" />
 
 ---
 
