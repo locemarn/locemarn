@@ -1,19 +1,19 @@
 ### Hey there! 👋 I'm Marcelo Nogueira
 
 
-
-I'm a passionate software developer who loves building things that matter — one line of code at a time.  
-Currently working on cool projects with Node.js, TypeScript, GraphQL and Prisma, while always learning and experimenting with new tech.
+<table>
+  <tr>
+    <td width="70%">
+      I'm a passionate software developer who loves building things that matter — one line of code at a time.  
+      Currently working on cool projects with Node.js, TypeScript, GraphQL and Prisma, while always learning and experimenting with new tech.
+    </td>
+    <td align="center" width="30%">
+      <img src="./images/me.gif" width="200px" alt="Marcelo Nogueira" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-
-<br/>
-<br/>
-<br/>
-
-<img align="right" width="250px" src="./images/me.png" alt="Marcelo Nogueira" />
-
 
 ### 🛠 Tech Stack
 
@@ -59,9 +59,10 @@ const celo = {
 ---
 
 ### 🎯 Goals
-- Ship clean, scalable code.
-- Keep learning and stay curious.
-- Share knowledge, help others, and grow with the dev community.
+🧹 Write clean, maintainable code.
+🧠 Learn new tech deeply, not just superficially.
+👥 Share knowledge and support the dev community.
+🌎 Travel the world while coding remotely.
 
 ---
 
@@ -92,3 +93,7 @@ Feel free to reach out!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=locemarn&layout=compact&theme=dracula" />
   <img src="https://github-profile-trophy.vercel.app/?username=locemarn&theme=dracula&column=7" />
 </p>
+
+
+✨ Bonus
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" align="left" /> <em>I love connecting with different people — if you say hi, I’ll be happy to meet you! 😊</em> ```
