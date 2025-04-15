@@ -1,105 +1,69 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marcelo+Nogueira!;" />
-</h1>
+### Hey there! 👋 I'm Marcelo Nogueira
 
-<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
+I'm a passionate software developer who loves building things that matter — one line of code at a time.  
+Currently working on cool projects with Node.js, TypeScript, GraphQL and Prisma, while always learning and experimenting with new tech.
 
-<br/>
+---
 
-<div align="center">
- 
-  🔭 I am looking for a new position.
- 
-  🌱 I’m learning about **Docker, python and AWS**
+### 🛠 Tech Stack
 
-😄 Pronouns: **He/His**
+```javascript
+const celo = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python"],
+    askMeAbout: ["web dev", "app dev", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vuejs"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask", "fastapi"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: ["gpc", "IBM Cloud"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions", "GraphQl"],
+        generativeAI: ["GPT", "Google Ai Studio"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Studying for dev interviews and improving my English",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
 
- </div>
- 
-<div style="width: 100%; display: flex; justify-content:center"> 
-  <span>
-    <a href="mailto:marcelon27@gmail.com" style="padding: 0 10px">
-      <img src="https://img.shields.io/badge/Email-4a646c?style=for-the-badge&logo=gmail&style=flat&logoColor=red
-      " target="_blank" />
-    </a>
-  </span>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-  <span>
-    <a href="https://www.linkedin.com/in/marcelo-nogueira-silva/" target="_blank"  style="padding: 0 10px">
-      <img src="https://img.shields.io/badge/LinkedIn-4a646c?style=for-the-badge&logo=linkedin&style=flat&logoColor=blue
-      " target="_blank" />
-    </a>
-  </span>
+---
+<!--START_SECTION:waka-->
 
-  <span>
-    <a href="./files/marcelo_nogueira_en.pdf" download  style="padding: 0 10px">
-      <img src="https://img.shields.io/badge/Resume-4a646c?style=for-the-badge&logo=googledocs&style=flat&logoColor=e0ffff
-      " target="_blank" />
-    </a>
-  </span>
 
-  <span>
-    <a href="./files/marcelo_nogueira_pt.pdf" download  style="padding: 0 10px">
-      <img src="https://img.shields.io/badge/Currículo-4a646c?style=for-the-badge&logo=googledocs&style=flat&logoColor=e0ffff
-      " target="_blank" />
-    </a>
-  </span>
-  
-</div>
+<!--END_SECTION:waka-->
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,sass,react,vue,nextjs,vitest" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,jest,nest,express,ts,py,fastapi,sklearn,redis" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,docker,anaconda,kafka,rabbitmq,mongodb,postgres,sqlite" />
-  </p>
-</div>
+---
 
-<br/>
-<hr/>
+### 🎯 Goals
+- Ship clean, scalable code.
+- Keep learning and stay curious.
+- Share knowledge, help others, and grow with the dev community.
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/locemarn/locemarn/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+---
 
-<hr/>
+### 📄 Resume
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+Wanna work together or check out what I've been up to?  
+**[📎 View My Resume](your-resume-link-goes-here)**
 
-<br/><br/>
+---
 
-<hr/>
+### 🌍 Let's Connect
 
-<br/>
-
-<div width="100%" justify="flex-end" align="center" >
-  <img align="left" src="https://img.shields.io/badge/Maintained%3F-yes-1abc9c.svg" />
-
-  <a href='https://github.com/locemarn/locemarn/issues' target='_blank' align="center" >
-    <img src='https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg' border='0' alt='Ask me anything' />
-  </a>
-
-  <img align="right" src="https://komarev.com/ghpvc/?username=locemarn&label=Hello+Visitors&color=1abc9c" />
-
-</div>
-
-<br/>
+I'm always up for new opportunities, interesting chats, or building something fun.  
+Feel free to reach out!
