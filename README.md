@@ -44,7 +44,6 @@ const celo = {
 ---
 <!--START_SECTION:waka-->
 
-
 <!--END_SECTION:waka-->
 
 ---
@@ -59,7 +58,8 @@ const celo = {
 ### 📄 Resume
 
 Wanna work together or check out what I've been up to?  
-**[📎 View My Resume](your-resume-link-goes-here)**
+**[📎 View My Resume]('./resumes/marcelo_nogueira_en.pdf)**
+**[📎 View My Resume-pt]('./resumes/marcelo_nogueira_pt.pdf)**
 
 ---
 
