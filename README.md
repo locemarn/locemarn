@@ -5,6 +5,8 @@ Currently working on cool projects with Node.js, TypeScript, GraphQL and Prisma,
 
 ---
 
+
+
 ### 🛠 Tech Stack
 
 ```javascript
@@ -68,3 +70,17 @@ Wanna work together or check out what I've been up to?
 
 I'm always up for new opportunities, interesting chats, or building something fun.  
 Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-nogueira-silva/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcelo.nogueirasilva@outlook.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/locemarn)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=locemarn&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=locemarn&layout=compact&theme=dracula" />
+  <img src="https://github-profile-trophy.vercel.app/?username=locemarn&theme=dracula&column=7" />
+</p>
