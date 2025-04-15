@@ -59,6 +59,7 @@ const celo = {
 
 Wanna work together or check out what I've been up to?  
 **[📎 View My Resume]('./resumes/marcelo_nogueira_en.pdf)**
+
 **[📎 View My Resume-pt]('./resumes/marcelo_nogueira_pt.pdf)**
 
 ---
