@@ -55,16 +55,16 @@ const celo = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2019 - To: 22 April 2025
+From: 02 September 2019 - To: 23 April 2025
 
-Total Time: 510 hrs 2 mins
+Total Time: 515 hrs 17 mins
 
-TypeScript   255 hrs 34 mins >>>>>>>>>>>>-------------   49.67 %
-SCSS         104 hrs 39 mins >>>>>--------------------   20.34 %
-HTML         61 hrs 35 mins  >>>----------------------   11.97 %
-PHP          49 hrs 54 mins  >>-----------------------   09.70 %
-JavaScript   20 hrs 19 mins  >------------------------   03.95 %
-Other        4 hrs 29 mins   -------------------------   00.87 %
+TypeScript   260 hrs 48 mins >>>>>>>>>>>>>------------   50.18 %
+SCSS         104 hrs 39 mins >>>>>--------------------   20.13 %
+HTML         61 hrs 35 mins  >>>----------------------   11.85 %
+PHP          49 hrs 54 mins  >>-----------------------   09.60 %
+JavaScript   20 hrs 19 mins  >------------------------   03.91 %
+Other        4 hrs 29 mins   -------------------------   00.86 %
 ```
 
 <!--END_SECTION:waka-->
