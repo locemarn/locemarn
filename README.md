@@ -55,7 +55,7 @@ const celo = {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 September 2019 - To: 27 April 2025
+From: 02 September 2019 - To: 28 April 2025
 
 Total Time: 523 hrs 46 mins
 
