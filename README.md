@@ -57,11 +57,11 @@ const celo = {
 ```rust
 From: 02 September 2019 - To: 03 January 2026
 
-Total Time: 545 hrs 6 mins
+Total Time: 545 hrs 19 mins
 
-TypeScript   287 hrs 9 mins  >>>>>>>>>>>>>------------   52.25 %
-SCSS         104 hrs 39 mins >>>>>--------------------   19.04 %
-HTML         61 hrs 35 mins  >>>----------------------   11.21 %
+TypeScript   287 hrs 19 mins >>>>>>>>>>>>>------------   52.26 %
+SCSS         104 hrs 39 mins >>>>>--------------------   19.03 %
+HTML         61 hrs 35 mins  >>>----------------------   11.20 %
 PHP          49 hrs 54 mins  >>-----------------------   09.08 %
 JavaScript   21 hrs 29 mins  >------------------------   03.91 %
 Other        4 hrs 29 mins   -------------------------   00.82 %
